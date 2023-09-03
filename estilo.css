@@ -1,0 +1,27 @@
+ div{
+    font-size: 48px;
+ }
+h1{
+    font-size: 48px;
+    color: rgb(60, 255, 0);             
+}
+h2{
+    font-size: 30px;
+    color: red;
+}
+h3{
+    font-size: 30px;
+    color: red;            
+}
+
+p {
+    font-size: 24px;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 48px;
+}
+a{
+    font-size: 35px;
+    text-decoration: none;
+    border: 5px solid red;
+}
